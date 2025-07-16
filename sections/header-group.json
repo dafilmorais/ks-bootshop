@@ -23,7 +23,7 @@
         "slide_mwF4Tk": {
           "type": "slide",
           "settings": {
-            "announcement": "Free Shipping For All Orders Over 35€"
+            "announcement": "Free Shipping For All Orders Over 60€"
           }
         }
       },
@@ -70,8 +70,8 @@
           "type": "desktop",
           "settings": {
             "container_max_width": "",
-            "logo": "shopify://shop_images/logo_ac83e801-6c23-4291-ae2a-b844cef1ecd0.png",
-            "logo_height": 32,
+            "logo": "shopify://shop_images/Stylish_logo_f138d168-0d65-4ca4-b43c-5602cd0950a7.png",
+            "logo_height": 38,
             "main_menu": "",
             "pt": 5,
             "pb": 5
